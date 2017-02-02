@@ -13,6 +13,7 @@
 		DA418CA81E40F62C0008C64C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA418CA61E40F62C0008C64C /* Main.storyboard */; };
 		DA418CAA1E40F62D0008C64C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA418CA91E40F62D0008C64C /* Assets.xcassets */; };
 		DA418CAD1E40F62D0008C64C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA418CAB1E40F62D0008C64C /* LaunchScreen.storyboard */; };
+		DA418CB61E4377190008C64C /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA418CB51E4377190008C64C /* DetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		DA418CA91E40F62D0008C64C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA418CAC1E40F62D0008C64C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA418CAE1E40F62D0008C64C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA418CB41E4377190008C64C /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		DA418CB51E4377190008C64C /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				DA418CAB1E40F62D0008C64C /* LaunchScreen.storyboard */,
 				DA418CAE1E40F62D0008C64C /* Info.plist */,
 				DA418C9D1E40F62C0008C64C /* Supporting Files */,
+				DA418CB41E4377190008C64C /* DetailViewController.h */,
+				DA418CB51E4377190008C64C /* DetailViewController.m */,
 			);
 			path = "RSS Parser";
 			sourceTree = "<group>";
@@ -153,6 +158,7 @@
 				DA418CA51E40F62C0008C64C /* ViewController.m in Sources */,
 				DA418CA21E40F62C0008C64C /* AppDelegate.m in Sources */,
 				DA418C9F1E40F62C0008C64C /* main.m in Sources */,
+				DA418CB61E4377190008C64C /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +313,7 @@
 				DA418CB31E40F62D0008C64C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
