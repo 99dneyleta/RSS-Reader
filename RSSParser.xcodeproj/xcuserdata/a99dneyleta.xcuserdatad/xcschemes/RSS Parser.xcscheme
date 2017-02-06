@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DA418C991E40F62C0008C64C"
-               BuildableName = "RSS Parser.app"
-               BlueprintName = "RSS Parser"
-               ReferencedContainer = "container:RSS Parser.xcodeproj">
+               BuildableName = "RSSParser.app"
+               BlueprintName = "RSSParser"
+               ReferencedContainer = "container:RSSParser.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DA418C991E40F62C0008C64C"
-            BuildableName = "RSS Parser.app"
-            BlueprintName = "RSS Parser"
-            ReferencedContainer = "container:RSS Parser.xcodeproj">
+            BuildableName = "RSSParser.app"
+            BlueprintName = "RSSParser"
+            ReferencedContainer = "container:RSSParser.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DA418C991E40F62C0008C64C"
-            BuildableName = "RSS Parser.app"
-            BlueprintName = "RSS Parser"
-            ReferencedContainer = "container:RSS Parser.xcodeproj">
+            BuildableName = "RSSParser.app"
+            BlueprintName = "RSSParser"
+            ReferencedContainer = "container:RSSParser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DA418C991E40F62C0008C64C"
-            BuildableName = "RSS Parser.app"
-            BlueprintName = "RSS Parser"
-            ReferencedContainer = "container:RSS Parser.xcodeproj">
+            BuildableName = "RSSParser.app"
+            BlueprintName = "RSSParser"
+            ReferencedContainer = "container:RSSParser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
